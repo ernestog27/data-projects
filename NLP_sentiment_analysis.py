@@ -1,4 +1,4 @@
-# Sentiment Analysis API with Flask
+# Building a RESTful API for Sentiment Analysis with Flask
 # Ernesto Gonzales, MSDA
 
 import pandas as pd
